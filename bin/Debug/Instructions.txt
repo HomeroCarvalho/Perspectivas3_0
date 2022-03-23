@@ -1,0 +1,11 @@
+HOW TO USE THIS DEMONSTRATIVE:
+
+     ----> Load an image, at menu Files-->Load Image.
+			----> load an isometric 2d image, others images type dont will work..
+     ----> Select the rotate plane (plane XY, XZ, or YZ), into combobox with tag: "Choice Plane Rotate".
+     ----> click in "Create Rotate Images" to view the demonstrative of image rotate, of object 3d.
+     ----> click in "Create Rotate Animation" to view the demostrative of animation with objects 3d rotates.
+     ----> alternative: write in "rotate angle" to modify the angle of rotate images,
+		 then click "Create Rotate Images" to wiew images rotates.
+
+ 

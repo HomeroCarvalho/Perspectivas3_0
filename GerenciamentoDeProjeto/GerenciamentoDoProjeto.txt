@@ -1,0 +1,277 @@
+﻿	----> PROJETO Perspectiva 3.0:
+
+		-----> descrição: "prática de estudos para matrizes inversas não quadráticas, com aplicação em 
+		imagens 2d em perspectiva, em que são criadas objetos 3d", e aplicada rotações, redimensionamento, mudança de base, 
+		e gerado uma imagem 2d perspectiva com estas modificações.""
+
+				O Projeto Persepctiva 2.0  quase alcançou este objetivo, mas o conhecimento era esparço e insuficiente,
+				agora após anos desde então, há um novo projeto, com conhecimento do Projeto Matrizes Não Quadráticas.
+
+				O Projeto Matrizes ainda está em andamento, mas as transformações 2d-->3d-->2d é operacional, e validada naquele projeto.
+
+		PRAZO PARA TERMINO: 1 mês.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+Produto Backlog:
+
+					----> importar as classes: Objeto3D (projeto MyFirstStrategicGame)  Transformação Isometrica, BaseOrtonormal, MATRIZES (PROJETO matrizes).
+							  
+
+							  
+						----> importar também biblioteca matematica, qual seja de ProjetoMatrizesNaoQuadraticas.
+						
+						-----> criação da interface da tela principal: 
+										1- campo para nomeDeArquivoImagem;
+										2- dimensoes 3D;
+										3- baseOrtonormal (ou com ângulos de rotação da base ortonormal padrão);
+										4- campos para mostra imagemEntrada, e imagemSaida;				
+										5- botões para "ConsroiImagemFormatada", "LerArquivoImagem", "SalvarImagemFormatda".
+
+
+A SPRINT CURRENTE FARÁ TODO O PRODUTO BACKLOG, NÃO HÁ PRIORIDADES, E O PROJETO É DE PEQUENO PORTE.
+
+___________________________________________________________________________________________________________________________________________________________________________________										
+Daily Scrum 03.12:
+
+			-----> (feito) importado classes: Objeto3D, TransformacaoIsometricaNaoQuadratica, BaseOrtonormal, e MATRIZES, do projeto MyFirstStrategicGame.
+			-----> (feito) importado as classes de Teste, do projeto MyControlsForGames.
+			-----> (feito) importado pacotes NuGet, de bibliotecas matemáticas de Matrizes e Vetores.
+
+
+			-----> (testado) testes para Objeto3D, com nivelamento da imagem.
+
+
+			----> (feito) planejamento da tela de iteração e modificações de uma imagem 2d perspectiva isometrica.
+							-----> planejamento segue o descrito no Product Backlog.
+
+
+							-----> (planejado, codificado, testado) o P.O. perguntou: "Nao dá para mostrar uma sequencia de imagens rotacionadas, para mostrar que o objeto 3d é mesmo 3D?"
+												----> agrega valor, mudança aprovada, media complexidade.
+
+							-----> (decidindo) o P.O. perguntou também: "Não dá para desenhar um grid 3d para visualização da imagem 3d padronizada?"
+												----> a decidir.
+
+
+
+			----> (codificando) codificação da tela de iteração do projeto.
+												
+			
+			----> (A FIXAR) fixar o box 3d, pois em uma versao anterior, era renderizado corretamente.
+
+
+			----> (feito) CODIFICAR UM NOVO METODO RESIZE, COMPONDO COM PONTOS MAXIMO E MINIMO, AS DIMENSÕES ANTERIORES.
+
+			----> (feito) criar imagens rotacionadas, a partir de uma rotação especificada de angulos em graus.
+
+
+			----> (a terminar a classe Vector3D, para rotação) migração da biblioteca de matrizes e vetores,
+			      de MathNet, que tem licença da Microsoft,	para biblioteca free DotNumerics.
+
+			----> codificar a rotação de vetores "Vector3D", da biblioteca "MatrizesNaoQuadraticas".
+
+
+____________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 06.12:
+
+Atividades Realizadas:
+
+	----> (feito) qual o ponto que tem o maior Z?
+			----> qual o ponto que tem o maior Y?
+			----> qual o ponto que tem o maior X?
+						----> são para o cálculo do Box, que rodeia o objeto 3d, explicitando as bordas do objeto....
+		
+	----> (pesquisado) dessenvolver ou pesquisar na internet as matrizes de rotações para vetores 3d.
+			----> codificado a rotação de um vetor 3d, em torno dos planos XY,XZ,YZ, com angulos de planos  em graus.		
+				  no entanto, se rotacionarmos um vetor 3d em dois ou mais angulos diferentes, causará imprecisão.
+				  a solução é multiplicar pelo a inversa o vetor 3d de entrada, rotacionar, e multiplicar pela matriz de base original.
+
+
+	----> construir o box do objeto 3d, com os pontos vertices calculados na 1a. atividade.
+					----> coincidentemente, o box voltou a ser construido.
+					----> falha no nivelamento, aparentemente.
+
+
+	----> (codficado) codificar um tile 3d par comparações de posicionamento com a imagem do objeto3d.
+
+	----> (testes) falha no desenho do objeto 3d edificio, sobre um tile 3d.
+					(no entanto...)----> na janela de iteração, porém, as imagens sairam nítidas, aparentemente niveladas.
+					(no entanto...)----> fixando a mudança dos eixos da base ortonormal, constatou-se nitidamente que as imagens não
+					só rotacionaram, mas convergiram para objetos 3d nivelado!!!!, só é preciso acertar as dimensões das imagens, "Objeto3d.Resize(dims)".
+					----> NIVELOU! os objetos 3d quando redimensionados para recuperar as dimensões, não antes de chamar o método Objeto3D.Nivela(),
+					e com correção de coordenadas negativas, NIVELOU!. E o engraçado, é que não foi aplicado os angulos de correção: apenas a mudança de base para base ortonormal inversa!!!.
+					----> para completar, modificar o método Objeto3D.Nivela(), para rotacionar com os angulos de configuração....
+									----> modificado para não rotacionar com os angulos de configuracao: um "jogo" de sinais negativos,
+									fazem com que a rotação dos vetores, anule a transformação para a inversa da base ortonormal rotacionada...
+									-----> do jeito que está, NIVELA na primeira imagem, sem rotacionar.
+
+	----> o que falta? construção de um objeto 3d sobre um tile 3d, é importante para preservar as coordenadas 3d espaciais dentro de um jogo, exemplo....
+						----> o tile 3d e o objeto 3d edificio estão "em sintonia", isto é, nivelados... falta:
+									----> verificar o dimensionamento após a nivelação, e o cuidado de não perder os pontos nivelados, no redimensionamento;
+									----> compor a posição do tile 3d e o objeto 3d edificio, pois estão nivelados, mas o posicionamento não está correto...
+									----> a rotação do objeto 3d deveria ser em torno do ponto central: codificar a rotação levando-se em conta o ponto central...
+___________________________________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 07.12:
+
+Atividades a seren realizadas:
+
+	----> (feito) o P.O. perguntou: "deu para ver que nivelou, a imagem em perspectiva, porém não dá para mostrar como os cálculos resultam numa rotação de imagens? As imagens rotacionadas estão meio distorcidas... Não dava para fazer uma animação?"
+					----> na janela de iteração, sem complexidade e com o que já foi codificado, é possível fazer uma animação com imagens rotacionadas. Mudança aprovada.
+								-----> codificado a classe para animação de objetos 3d rotacionados.
+								-----> testes feitos, fixado, a animação foi feita, apesar de problemas fora desta funcionalidade,
+								como imagens cortadas, e retorcidas. Talvez uma imagem rotacionada, precise aumenta as dimensões da imagem de saida, processada.
+
+
+	----> (a fazer) o cálculo dos vértices do box não está muito claro, codificar um novo metodo Objeto3D.ConstroiBox(), utilizando os vetores com máximos e mínimo coordenadas..
+
+	----> (codficado, testado na janela de iteração) não está muito claro, o ponto central da rotação, parece o ponto left-topo do objeto 3d. Codificar uma rotação com ponto central (centro de massa), para levar o ponto de rotação para o ponto central...
+					----> codificado, e incluido no metodo Objeto3d.Rotate(), o cálculo com ponto central.
+
+	----> retirado do processao de construcao do objeto 3d, o método Objeto3d.Nivela(). é uma funcionalidade opcional,
+		se quisermos nivelar para utilização junto com alguma padronização num applicativo, jogos.
+
+
+	----> (a fazer) no teste de construção de objeto3d nivelado, calcular a localização tal que o objeto 3d de edificio fique acima do tile 3d de chão.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 08.12:
+
+Atividades realizadas:
+
+	
+			----> migração dos cálculos de Vetor3D.Rotacao, para a biblioteca MathNet.
+
+
+			----> está claro que a rotação de objeto3d tem como ponto central o vetor top-left do objeto3d,
+				  a centralização dos vetores, antes da rotação, sem efeito.
+
+			----> migração para outra math library, está rotacinando, mas o metodo Vector.Nivela() não está funcionando muito bem.
+							----> na janela de interação, por razões desconhecidas, nivela para anguloXZ=-25.
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 09.12:
+
+Atividades realizadas:
+
+			----> insight do nivelamento: o metodo Objeto3d.Nivela(), está com defasagem angulo=-25, da janela de interação,
+				  é porque funciona com +11 de rotação para o sentido contrário, o que dobra o ângulo desejado..
+
+
+		    ----> refatoração das classes Vector3D, Vector2D, para compor com MathNet.Spatial.Euclidian.Vector3D.
+			----> mudança do ângulo de nivelamento, para resultar em anguloXZ=-25.
+						-----> modificações feitas, nivela para anguloXZ=-11,0, com entrada de rotação tb= -11,0.
+						-----> incluindo o anguloXZ observado, para o metodo Object3d.Nivela(), conseguiu-se nivelamento.
+
+			----> planejamento para colocação em 3d objetos 3d, e tiles 3d.
+
+						---> refatoracao, eliminacao de uma classe que reunia vetores e cores, mas na atual configuracao do codigo, o tipo vetor 3d guarda uma cor...
+									----> após a refatoração, o codigo de construir imagens quebrou!!!!. a imagem de saida não está aparecendo....
+									----> fixado, os metodos Resize() e Nivela() inicializava vetores, sem inicializar a cor do ponto.
+									----> cuidado na inicialização de vetores, onde métodos requerem cores para operar, pois
+										  motivos de compatibilidade, mantido o construtor apenas com as coordenadas, sem a cor do vetor...
+
+
+
+
+
+
+
+			----> COM AJUDA DE PROFESSORES, torna-se possível transformações 3d-->2d-->3d, pois a matriz M32_23(-1), na
+			      teoria de matrizes não quadráticas, tem variáveis livres, e o que se faz é colocar mais variáveis com coeficientes
+				  aleatorios, de tal modo que a matriz seja inversível, pois a matriz M32_23 tem nove variaveis, e não há depedência linear nos coeficientes....
+								----> importar do ProjetoMatrizes, os cálculos de M32_23, para calcular M32_23(-1), inserindo
+								mais 3 variáveis livres, com coeficientes aleatórios, tornando M32_23 inversível,
+								e M32_23(-1), a correção de função bijetora, possível.
+
+				  M32_23=M32*M23, onde M32 e M23 são matrizes não quadráticas, para transformações 2d-->3d, e 3d-->2d,
+				  e calculo de 2d-->3d-->2d, mas havia falha em 3d-->2d-->3d, justamente porque M32*M23<> I(3).
+_____________________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 15.12:
+
+	Atividades Realizadas:
+
+				----> testes para cálculo aproximativo de M32_23(-1).
+							----> ao seta valores para coeficientes de variáveis livres,
+							----> conseguiu-se um valor aproximativo bastante razoável, de um vetor 3d numa aplicação 3d-->2d-->3d...
+
+							---> tem-se um vetor v3= (1,5,8).
+							---> consegue-se o vetor v2= v3*M32_23(-1)*M32_23*M32.
+							---> recupera-se o vetor v3= v2*M23.
+
+							M32_23(-1)=MX=(M32*M23+k), e a matriz para possibilitar as transformações 3d-->2d-->3d.
+							k=[[0,0,0],[0,0,0],[0,0,c1]], é a matriz que acrescenta variaveis livres em M32*M23.
+
+
+							A modificação na transformação isometrica nao quadratica fica como:
+									
+									vetor2d GetPoint2D(vector3d v3)
+									{
+										return v3*M32_23(-1)*M32_23*M32;
+									}
+
+									vetor3d GetPoint3D(vector2d v2)
+									{
+										return v2*M23;
+									}
+
+
+						erro em ~ 1.0 unidade (o erro maximo na matriz M32_23(-1)*k= 0.5, arredondando, 1.0).
+
+
+	-----> validação das modificações feitas, o objeto 3d nivelou, mas está muito deformada..
+
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 18.12:
+
+	Atividades Realizadas:
+
+				----> Modificação no método Objeto3d.Nivela(), nivela, mas não rotaciona para o ângulo XZ de configuração.
+
+				----> Os cálculos da Transformacao Isometrica, metodos GetPoint3D() e GetPoint2D() estão incompletos,
+				devido a uma falha na equação, que não diminuiu uma variável acrescentada, causando imprecisão.
+
+				----> rotacionou, e as imagens rotacionadas estão melhores... isso por uma mudança da
+				coordenada z de matriz M32.
+									----> não está muito claro se está nivelando...
+									----> não está nivelando... sem modificações na transformação isometrica.
+_________________________________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 19.12:
+
+		----> (feito, testado)  rever a construcao da imagem de saida, no metodo Objeto3d.BuildImage(), está com dimensões muito grandes,
+			  e sem recorte pela classe BitmapCutter.
+			  ----> codificado, a imagem out tem agora dimensões enxutas, se linhas ou colunas em transparencia.
+
+
+		----> (codificando) construir o box 3d do objeto 3d, com vetores de pontos maximos e minimos, vetores inteiros, não vetores formados por maximos e minimos.
+						----> no calculo antigo do box, não se visualiza direito as bordas do objeto 3d.
+						----> é preciso calcular o box com vetores absolutos, não formados por combinações de valores max e min.
+
+		----> Pelo principio de responsabilidade unica, evitando confusões com metodos fazendo mais de uma funcionalidade,
+		o metodo Objeto3d.Nivela() faz o que seu nome diz, nivela as imagens. A rotação para uma base ortoronormal rotacionada
+		e padronizada, será feito em outro metodo.
+						----> feito o metodo Objeto3d.Nivela().
+						----> feito o metodo de padronização de ângulos de rotação numa base ortonormal.
+__________________________________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 19.03.22:
+		---> projeto parado até a consulidação da classe Objeto3d.
+		---> importado classes de suporte de matematica: Matriz, BaseOrtonormal, MyVetor,MyTransformacao Isometrica
+
+				
+		---->pequeno projeto demonstrativo da  classe Objeto3d..
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________
+Daily Scrum 21.03.22:
+
+	----> fixado havia mais de uma classe Objeto3d, e na janela do aplicativo,
+					constava a classe antigo.
+					----> método Objeto3d.Rotate() quebrou!
+								----> classe "MyTransformacaoNaoQuadratica" atual
+								está com métodos ainda a aprimorar, estão aguardando testes
+								justamente hoje. 
+											----> Regressão para classe mais estável, testada.
+								----> fixado, testado sucedido.
+											----> está construindo as imagens sem deformações,
+											porém com dimensões diminutas...
+____________________________________________________________________________________________________________________________________________________________________________________________________________

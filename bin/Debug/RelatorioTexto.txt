@@ -1,0 +1,1518 @@
+
+
+Time: 03/12/2021 09:52:12  Message: teste para objetos 3d.
+Time: 03/12/2021 09:52:24  Message: Desempenho do cenario de teste:   tempo: 12289
+
+
+
+
+Time: 03/12/2021 10:02:38  Message: teste para objetos 3d.
+Time: 03/12/2021 10:02:48  Message: Desempenho do cenario de teste:   tempo: 10392
+
+
+
+
+Time: 03/12/2021 10:03:01  Message: teste para objetos 3d.
+
+
+Time: 03/12/2021 10:03:26  Message: teste para objetos 3d.
+Time: 03/12/2021 10:03:32  Message: Desempenho do cenario de teste:   tempo: 5544
+
+
+
+
+Time: 03/12/2021 10:03:53  Message: teste para objetos 3d.
+Time: 03/12/2021 10:04:09  Message: Desempenho do cenario de teste:   tempo: 16143
+
+
+
+
+Time: 03/12/2021 10:05:36  Message: teste para objetos 3d.
+Time: 03/12/2021 10:05:49  Message: Desempenho do cenario de teste:   tempo: 12968
+
+
+
+
+Time: 03/12/2021 10:14:05  Message: teste para objetos 3d.
+
+
+Time: 03/12/2021 10:14:54  Message: teste para objetos 3d.
+
+
+Time: 03/12/2021 10:34:47  Message: teste para objetos 3d.
+
+
+Time: 03/12/2021 10:35:51  Message: teste para objetos 3d.
+
+
+Time: 03/12/2021 10:37:22  Message: teste para objetos 3d.
+
+
+Time: 03/12/2021 10:41:09  Message: teste para objetos 3d.
+Time: 03/12/2021 10:41:30  Message: Desempenho do cenario de teste:   tempo: 21289
+
+
+
+
+Time: 03/12/2021 10:41:43  Message: teste para objetos 3d.
+Time: 03/12/2021 10:42:02  Message: Desempenho do cenario de teste:   tempo: 19075
+
+
+
+
+Time: 03/12/2021 10:43:08  Message: teste para objetos 3d.
+Time: 03/12/2021 10:43:20  Message: Desempenho do cenario de teste:   tempo: 11647
+
+
+
+
+Time: 03/12/2021 10:45:15  Message: teste para objetos 3d.
+Time: 03/12/2021 10:45:37  Message: Desempenho do cenario de teste:   tempo: 22578
+
+
+
+
+Time: 03/12/2021 10:46:00  Message: teste para objetos 3d.
+Time: 03/12/2021 10:46:11  Message: Desempenho do cenario de teste:   tempo: 11258
+
+
+
+
+Time: 03/12/2021 10:48:37  Message: teste para objetos 3d.
+Time: 03/12/2021 10:48:43  Message: Desempenho do cenario de teste:   tempo: 5705
+
+
+
+
+Time: 03/12/2021 10:49:06  Message: teste para objetos 3d.
+Time: 03/12/2021 10:49:27  Message: Desempenho do cenario de teste:   tempo: 20957
+
+
+
+
+Time: 03/12/2021 10:50:00  Message: teste para objetos 3d.
+Time: 03/12/2021 10:50:33  Message: Desempenho do cenario de teste:   tempo: 32926
+
+
+
+
+Time: 03/12/2021 10:51:32  Message: teste para objetos 3d.
+Time: 03/12/2021 10:51:42  Message: Desempenho do cenario de teste:   tempo: 10333
+
+
+
+
+Time: 03/12/2021 11:16:44  Message: Testes da janela de iteracao
+
+
+
+
+Time: 03/12/2021 11:16:44  Message: teste para objetos 3d.
+Time: 03/12/2021 11:16:46  Message: Desempenho do cenario de teste:   tempo: 2703
+
+
+
+
+Time: 03/12/2021 11:17:33  Message: Testes da janela de iteracao
+
+
+
+
+Time: 03/12/2021 11:18:16  Message: Testes da janela de iteracao
+Time: 03/12/2021 11:18:55  Message: Desempenho do cenario de teste:   tempo: 39657
+
+
+
+
+Time: 03/12/2021 11:18:56  Message: teste para objetos 3d.
+Time: 03/12/2021 11:19:01  Message: Desempenho do cenario de teste:   tempo: 5870
+
+
+
+
+Time: 03/12/2021 11:20:04  Message: Testes da janela de iteracao
+
+
+Time: 03/12/2021 11:23:08  Message: Testes da janela de iteracao
+Time: 03/12/2021 11:23:19  Message: Desempenho do cenario de teste:   tempo: 11022
+
+
+
+
+Time: 03/12/2021 11:23:19  Message: teste para objetos 3d.
+Time: 03/12/2021 11:23:23  Message: Desempenho do cenario de teste:   tempo: 4001
+
+
+
+
+Time: 03/12/2021 11:57:25  Message: Testes da janela de iteracao
+Time: 03/12/2021 11:57:41  Message: Desempenho do cenario de teste:   tempo: 16107
+
+
+
+
+Time: 03/12/2021 11:57:41  Message: teste para objetos 3d.
+Time: 03/12/2021 11:57:46  Message: Desempenho do cenario de teste:   tempo: 5444
+
+
+
+
+Time: 03/12/2021 11:58:09  Message: Testes da janela de iteracao
+Time: 03/12/2021 11:58:20  Message: Desempenho do cenario de teste:   tempo: 10926
+
+
+
+
+Time: 03/12/2021 11:58:20  Message: teste para objetos 3d.
+Time: 03/12/2021 11:58:26  Message: Desempenho do cenario de teste:   tempo: 6268
+
+
+
+
+Time: 03/12/2021 11:58:37  Message: Testes da janela de iteracao
+Time: 03/12/2021 11:58:51  Message: Desempenho do cenario de teste:   tempo: 13373
+
+
+
+
+Time: 03/12/2021 11:58:51  Message: teste para objetos 3d.
+Time: 03/12/2021 11:58:53  Message: Desempenho do cenario de teste:   tempo: 1818
+
+
+
+
+Time: 03/12/2021 12:04:02  Message: Testes da janela de iteracao
+Time: 03/12/2021 12:04:24  Message: Desempenho do cenario de teste:   tempo: 21988
+
+
+
+
+Time: 03/12/2021 12:04:24  Message: teste para objetos 3d.
+Time: 03/12/2021 12:04:25  Message: Desempenho do cenario de teste:   tempo: 1709
+
+
+
+
+Time: 03/12/2021 12:04:40  Message: Testes da janela de iteracao
+Time: 03/12/2021 12:05:21  Message: Desempenho do cenario de teste:   tempo: 40777
+
+
+
+
+Time: 03/12/2021 12:05:21  Message: teste para objetos 3d.
+Time: 03/12/2021 12:05:26  Message: Desempenho do cenario de teste:   tempo: 5105
+
+
+
+
+Time: 03/12/2021 12:14:50  Message: Testes da janela de iteracao
+Time: 03/12/2021 12:14:54  Message: Desempenho do cenario de teste:   tempo: 4283
+
+
+
+
+Time: 03/12/2021 12:14:54  Message: teste para objetos 3d.
+
+
+Time: 03/12/2021 12:15:55  Message: Testes da janela de iteracao
+Time: 03/12/2021 12:15:57  Message: Desempenho do cenario de teste:   tempo: 2133
+
+
+
+
+Time: 03/12/2021 12:15:57  Message: teste para objetos 3d.
+Time: 03/12/2021 12:16:11  Message: Desempenho do cenario de teste:   tempo: 13551
+
+
+
+
+Time: 03/12/2021 12:17:26  Message: Testes da janela de iteracao
+Time: 03/12/2021 12:17:32  Message: Desempenho do cenario de teste:   tempo: 6913
+
+
+
+
+Time: 03/12/2021 12:17:32  Message: teste para objetos 3d.
+Time: 03/12/2021 12:17:44  Message: Desempenho do cenario de teste:   tempo: 11849
+
+
+
+
+Time: 03/12/2021 12:45:40  Message: teste para objetos 3d.
+Time: 03/12/2021 12:45:54  Message: Desempenho do cenario de teste:   tempo: 14163
+
+
+
+
+Time: 03/12/2021 12:49:21  Message: teste para objetos 3d.
+Time: 03/12/2021 12:49:38  Message: Desempenho do cenario de teste:   tempo: 17619
+
+
+
+
+Time: 03/12/2021 12:52:34  Message: teste para objetos 3d.
+Time: 03/12/2021 12:52:50  Message: Desempenho do cenario de teste:   tempo: 16231
+
+
+
+
+Time: 03/12/2021 12:53:32  Message: teste para objetos 3d.
+Time: 03/12/2021 12:53:46  Message: Desempenho do cenario de teste:   tempo: 13843
+
+
+
+
+Time: 03/12/2021 12:54:35  Message: teste para objetos 3d.
+Time: 03/12/2021 12:54:44  Message: Desempenho do cenario de teste:   tempo: 9485
+
+
+
+
+Time: 03/12/2021 12:57:19  Message: teste para objetos 3d.
+Time: 03/12/2021 12:57:32  Message: Desempenho do cenario de teste:   tempo: 12678
+
+
+
+
+Time: 03/12/2021 12:58:12  Message: teste para objetos 3d.
+Time: 03/12/2021 12:58:24  Message: Desempenho do cenario de teste:   tempo: 11179
+
+
+
+
+Time: 03/12/2021 12:59:23  Message: teste para objetos 3d.
+
+
+Time: 03/12/2021 13:00:57  Message: teste para objetos 3d.
+Time: 03/12/2021 13:01:13  Message: Desempenho do cenario de teste:   tempo: 16299
+
+
+
+
+Time: 03/12/2021 14:29:35  Message: teste para objetos 3d.
+Time: 03/12/2021 14:30:35  Message: Desempenho do cenario de teste:   tempo: 60145
+
+
+
+
+Time: 03/12/2021 14:32:15  Message: teste para objetos 3d.
+Time: 03/12/2021 14:32:25  Message: Desempenho do cenario de teste:   tempo: 9586
+
+
+
+
+Time: 03/12/2021 14:32:48  Message: teste para objetos 3d.
+Time: 03/12/2021 14:32:55  Message: Desempenho do cenario de teste:   tempo: 7327
+
+
+
+
+Time: 03/12/2021 15:00:40  Message: teste para objetos 3d.
+Time: 03/12/2021 15:00:43  Message: Desempenho do cenario de teste:   tempo: 2890
+
+
+
+
+Time: 03/12/2021 15:01:21  Message: Testes da janela de iteracao
+
+
+Time: 03/12/2021 15:02:29  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:02:59  Message: Desempenho do cenario de teste:   tempo: 29422
+
+
+
+
+Time: 03/12/2021 15:07:08  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:07:28  Message: Desempenho do cenario de teste:   tempo: 20317
+
+
+
+
+Time: 03/12/2021 15:07:53  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:08:30  Message: Desempenho do cenario de teste:   tempo: 36458
+
+
+
+
+Time: 03/12/2021 15:20:38  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:21:09  Message: Desempenho do cenario de teste:   tempo: 30791
+
+
+
+
+Time: 03/12/2021 15:21:40  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:22:17  Message: Desempenho do cenario de teste:   tempo: 37012
+
+
+
+
+Time: 03/12/2021 15:32:23  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:32:30  Message: Desempenho do cenario de teste:   tempo: 6885
+
+
+
+
+Time: 03/12/2021 15:32:45  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:33:17  Message: Desempenho do cenario de teste:   tempo: 31756
+
+
+
+
+Time: 03/12/2021 15:33:34  Message: Testes da janela de iteracao
+
+
+Time: 03/12/2021 15:34:04  Message: Testes da janela de iteracao
+
+
+Time: 03/12/2021 15:34:44  Message: Testes da janela de iteracao
+
+
+Time: 03/12/2021 15:38:18  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:38:44  Message: Desempenho do cenario de teste:   tempo: 25052
+
+
+
+
+Time: 03/12/2021 15:39:12  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:40:00  Message: Desempenho do cenario de teste:   tempo: 47093
+
+
+
+
+Time: 03/12/2021 15:49:01  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:49:22  Message: Desempenho do cenario de teste:   tempo: 21383
+
+
+
+
+Time: 03/12/2021 15:50:31  Message: Testes da janela de iteracao
+Time: 03/12/2021 15:51:40  Message: Desempenho do cenario de teste:   tempo: 69219
+
+
+
+
+Time: 06/12/2021 10:51:41  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 10:53:11  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 10:54:04  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 10:55:09  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 10:56:27  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 10:57:49  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 10:59:03  Message: teste para objetos 3d.
+Time: 06/12/2021 10:59:36  Message: Desempenho do cenario de teste:   tempo: 32463
+
+
+
+
+Time: 06/12/2021 11:00:40  Message: teste para objetos 3d.
+Time: 06/12/2021 11:00:54  Message: Desempenho do cenario de teste:   tempo: 14795
+
+
+
+
+Time: 06/12/2021 11:01:16  Message: teste para objetos 3d.
+Time: 06/12/2021 11:01:26  Message: Desempenho do cenario de teste:   tempo: 10295
+
+
+
+
+Time: 06/12/2021 11:05:20  Message: testes para transfomacoes de matrizes nao quadraticas.
+Time: 06/12/2021 11:05:20  Message: Desempenho do cenario de teste:   tempo: 88
+Time: 06/12/2021 11:05:20  Message: Desempenho do cenario de teste:   tempo: 0
+Time: 06/12/2021 11:05:20  Message: Desempenho do cenario de teste:   tempo: 1
+Time: 06/12/2021 11:05:20  Message: teste: Teste2 executado em: 1   teste passou
+Time: 06/12/2021 11:05:20  Message: Desempenho do cenario de teste:   tempo: 0
+Time: 06/12/2021 11:05:20  Message: Desempenho do cenario de teste:   tempo: 0
+
+
+
+
+Time: 06/12/2021 11:06:30  Message: testes para transfomacoes de matrizes nao quadraticas.
+
+
+Time: 06/12/2021 11:09:44  Message: teste para objetos 3d.
+Time: 06/12/2021 11:10:16  Message: Desempenho do cenario de teste:   tempo: 31137
+
+
+
+
+Time: 06/12/2021 11:10:41  Message: teste para objetos 3d.
+Time: 06/12/2021 11:10:45  Message: Desempenho do cenario de teste:   tempo: 3941
+
+
+
+
+Time: 06/12/2021 11:10:52  Message: teste para objetos 3d.
+Time: 06/12/2021 11:10:56  Message: Desempenho do cenario de teste:   tempo: 4438
+
+
+
+
+Time: 06/12/2021 11:11:06  Message: teste para objetos 3d.
+Time: 06/12/2021 11:11:14  Message: Desempenho do cenario de teste:   tempo: 8151
+
+
+
+
+Time: 06/12/2021 11:12:00  Message: teste para objetos 3d.
+Time: 06/12/2021 11:12:11  Message: Desempenho do cenario de teste:   tempo: 11143
+
+
+
+
+Time: 06/12/2021 11:14:04  Message: teste para objetos 3d.
+Time: 06/12/2021 11:14:23  Message: Desempenho do cenario de teste:   tempo: 18935
+
+
+
+
+Time: 06/12/2021 11:14:55  Message: teste para objetos 3d.
+Time: 06/12/2021 11:15:00  Message: Desempenho do cenario de teste:   tempo: 5013
+
+
+
+
+Time: 06/12/2021 11:15:35  Message: teste para objetos 3d.
+Time: 06/12/2021 11:15:38  Message: Desempenho do cenario de teste:   tempo: 3164
+
+
+
+
+Time: 06/12/2021 11:15:43  Message: teste para objetos 3d.
+Time: 06/12/2021 11:15:49  Message: Desempenho do cenario de teste:   tempo: 6090
+
+
+
+
+Time: 06/12/2021 11:19:36  Message: teste para objetos 3d.
+Time: 06/12/2021 11:19:43  Message: Desempenho do cenario de teste:   tempo: 7148
+
+
+
+
+Time: 06/12/2021 11:19:53  Message: teste para objetos 3d.
+Time: 06/12/2021 11:20:14  Message: Desempenho do cenario de teste:   tempo: 21194
+
+
+
+
+Time: 06/12/2021 11:20:27  Message: teste para objetos 3d.
+Time: 06/12/2021 11:20:37  Message: Desempenho do cenario de teste:   tempo: 10000
+
+
+
+
+Time: 06/12/2021 13:29:03  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 13:29:54  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 13:30:11  Message: teste para objetos 3d.
+Time: 06/12/2021 13:30:36  Message: Desempenho do cenario de teste:   tempo: 25232
+
+
+
+
+Time: 06/12/2021 13:42:08  Message: teste para objetos 3d.
+Time: 06/12/2021 13:42:09  Message: Desempenho do cenario de teste:   tempo: 516
+Time: 06/12/2021 13:42:25  Message: Desempenho do cenario de teste:   tempo: 16203
+
+
+
+
+Time: 06/12/2021 13:44:55  Message: teste para objetos 3d.
+Time: 06/12/2021 13:44:56  Message: Desempenho do cenario de teste:   tempo: 600
+Time: 06/12/2021 13:45:07  Message: Desempenho do cenario de teste:   tempo: 11365
+
+
+
+
+Time: 06/12/2021 13:46:01  Message: teste para objetos 3d.
+Time: 06/12/2021 13:46:01  Message: Desempenho do cenario de teste:   tempo: 667
+Time: 06/12/2021 13:46:14  Message: Desempenho do cenario de teste:   tempo: 12981
+
+
+
+
+Time: 06/12/2021 13:47:10  Message: teste para objetos 3d.
+Time: 06/12/2021 13:47:10  Message: Desempenho do cenario de teste:   tempo: 408
+Time: 06/12/2021 13:47:21  Message: Desempenho do cenario de teste:   tempo: 10513
+
+
+
+
+Time: 06/12/2021 13:47:39  Message: teste para objetos 3d.
+Time: 06/12/2021 13:47:39  Message: Desempenho do cenario de teste:   tempo: 357
+Time: 06/12/2021 13:47:48  Message: Desempenho do cenario de teste:   tempo: 8815
+
+
+
+
+Time: 06/12/2021 13:48:54  Message: teste para objetos 3d.
+Time: 06/12/2021 13:48:54  Message: Desempenho do cenario de teste:   tempo: 363
+Time: 06/12/2021 13:49:01  Message: Desempenho do cenario de teste:   tempo: 6172
+
+
+
+
+Time: 06/12/2021 13:49:27  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 13:52:27  Message: teste para objetos 3d.
+
+
+Time: 06/12/2021 13:54:44  Message: testes para transfomacoes de matrizes nao quadraticas.
+Time: 06/12/2021 13:54:44  Message: Desempenho do cenario de teste:   tempo: 55
+Time: 06/12/2021 13:54:44  Message: Desempenho do cenario de teste:   tempo: 1
+Time: 06/12/2021 13:54:44  Message: Desempenho do cenario de teste:   tempo: 1
+Time: 06/12/2021 13:54:44  Message: teste: Teste2 executado em: 1   teste passou
+Time: 06/12/2021 13:54:44  Message: Desempenho do cenario de teste:   tempo: 6
+Time: 06/12/2021 13:54:44  Message: Desempenho do cenario de teste:   tempo: 0
+
+
+
+
+Time: 06/12/2021 13:55:03  Message: Testes da janela de iteracao
+Time: 06/12/2021 13:56:01  Message: Desempenho do cenario de teste:   tempo: 58264
+
+
+
+
+Time: 06/12/2021 14:07:27  Message: Testes da janela de iteracao
+Time: 06/12/2021 14:08:00  Message: Desempenho do cenario de teste:   tempo: 32593
+
+
+
+
+Time: 06/12/2021 14:09:02  Message: Testes da janela de iteracao
+Time: 06/12/2021 14:10:24  Message: Desempenho do cenario de teste:   tempo: 82004
+
+
+
+
+Time: 06/12/2021 14:10:45  Message: Testes da janela de iteracao
+
+
+Time: 06/12/2021 14:14:31  Message: Testes da janela de iteracao
+Time: 06/12/2021 14:15:06  Message: Desempenho do cenario de teste:   tempo: 35215
+
+
+
+
+Time: 06/12/2021 15:42:02  Message: Testes da janela de iteracao
+Time: 06/12/2021 15:43:32  Message: Desempenho do cenario de teste:   tempo: 90975
+
+
+
+
+Time: 06/12/2021 15:45:04  Message: Testes da janela de iteracao
+Time: 06/12/2021 15:46:15  Message: Desempenho do cenario de teste:   tempo: 71018
+
+
+
+
+Time: 06/12/2021 15:46:57  Message: Testes da janela de iteracao
+Time: 06/12/2021 15:47:37  Message: Desempenho do cenario de teste:   tempo: 40508
+
+
+
+
+Time: 06/12/2021 15:47:52  Message: Testes da janela de iteracao
+Time: 06/12/2021 15:48:55  Message: Desempenho do cenario de teste:   tempo: 63123
+
+
+
+
+Time: 06/12/2021 15:50:18  Message: Testes da janela de iteracao
+Time: 06/12/2021 15:50:46  Message: Desempenho do cenario de teste:   tempo: 27898
+
+
+
+
+Time: 06/12/2021 15:58:10  Message: Testes da janela de iteracao
+Time: 06/12/2021 15:58:44  Message: Desempenho do cenario de teste:   tempo: 33769
+
+
+
+
+Time: 06/12/2021 15:59:15  Message: Testes da janela de iteracao
+Time: 06/12/2021 15:59:37  Message: Desempenho do cenario de teste:   tempo: 21835
+
+
+
+
+Time: 06/12/2021 16:00:51  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:01:32  Message: Desempenho do cenario de teste:   tempo: 40896
+
+
+
+
+Time: 06/12/2021 16:01:42  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:02:04  Message: Desempenho do cenario de teste:   tempo: 22037
+
+
+
+
+Time: 06/12/2021 16:02:13  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:03:07  Message: Desempenho do cenario de teste:   tempo: 54215
+
+
+
+
+Time: 06/12/2021 16:04:18  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:04:58  Message: Desempenho do cenario de teste:   tempo: 39439
+
+
+
+
+Time: 06/12/2021 16:05:25  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:06:11  Message: Desempenho do cenario de teste:   tempo: 46535
+
+
+
+
+Time: 06/12/2021 16:43:47  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:44:23  Message: Desempenho do cenario de teste:   tempo: 36237
+
+
+
+
+Time: 06/12/2021 16:44:36  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:45:00  Message: Desempenho do cenario de teste:   tempo: 24198
+
+
+
+
+Time: 06/12/2021 16:45:24  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:46:17  Message: Desempenho do cenario de teste:   tempo: 53654
+
+
+
+
+Time: 06/12/2021 16:46:26  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:46:46  Message: Desempenho do cenario de teste:   tempo: 19637
+
+
+
+
+Time: 06/12/2021 16:47:57  Message: teste para objetos 3d.
+Time: 06/12/2021 16:47:57  Message: Desempenho do cenario de teste:   tempo: 285
+Time: 06/12/2021 16:48:27  Message: Desempenho do cenario de teste:   tempo: 30157
+
+
+
+
+Time: 06/12/2021 16:51:36  Message: teste para objetos 3d.
+Time: 06/12/2021 16:51:36  Message: Desempenho do cenario de teste:   tempo: 236
+Time: 06/12/2021 16:51:51  Message: Desempenho do cenario de teste:   tempo: 14594
+
+
+
+
+Time: 06/12/2021 16:52:22  Message: teste para objetos 3d.
+Time: 06/12/2021 16:52:22  Message: Desempenho do cenario de teste:   tempo: 236
+Time: 06/12/2021 16:52:29  Message: Desempenho do cenario de teste:   tempo: 6472
+
+
+
+
+Time: 06/12/2021 16:52:36  Message: teste para objetos 3d.
+Time: 06/12/2021 16:52:36  Message: Desempenho do cenario de teste:   tempo: 248
+Time: 06/12/2021 16:52:54  Message: Desempenho do cenario de teste:   tempo: 17736
+
+
+
+
+Time: 06/12/2021 16:54:10  Message: Testes da janela de iteracao
+Time: 06/12/2021 16:54:55  Message: Desempenho do cenario de teste:   tempo: 44500
+
+
+
+
+Time: 07/12/2021 20:34:14  Message: Testes da janela de iteracao
+
+
+Time: 07/12/2021 20:36:36  Message: Testes da janela de iteracao
+
+
+Time: 07/12/2021 20:37:09  Message: Testes da janela de iteracao
+
+
+Time: 07/12/2021 20:37:52  Message: Testes da janela de iteracao
+Time: 07/12/2021 20:38:29  Message: Desempenho do cenario de teste:   tempo: 37154
+
+
+
+
+Time: 07/12/2021 20:39:52  Message: Testes da janela de iteracao
+Time: 07/12/2021 20:40:11  Message: Desempenho do cenario de teste:   tempo: 19007
+
+
+
+
+Time: 07/12/2021 20:40:18  Message: Testes da janela de iteracao
+
+
+Time: 07/12/2021 20:42:41  Message: Testes da janela de iteracao
+Time: 07/12/2021 20:43:11  Message: Desempenho do cenario de teste:   tempo: 29908
+
+
+
+
+Time: 07/12/2021 20:44:32  Message: Testes da janela de iteracao
+Time: 07/12/2021 20:45:12  Message: Desempenho do cenario de teste:   tempo: 39711
+
+
+
+
+Time: 08/12/2021 06:18:21  Message: teste para objetos 3d.
+Time: 08/12/2021 06:18:39  Message: Desempenho do cenario de teste:   tempo: 17839
+Time: 08/12/2021 06:18:46  Message: Desempenho do cenario de teste:   tempo: 6809
+
+
+
+
+Time: 08/12/2021 06:25:07  Message: teste para objetos 3d.
+Time: 08/12/2021 06:25:12  Message: Desempenho do cenario de teste:   tempo: 4748
+Time: 08/12/2021 06:25:16  Message: Desempenho do cenario de teste:   tempo: 3922
+
+
+
+
+Time: 08/12/2021 06:27:11  Message: teste para objetos 3d.
+Time: 08/12/2021 06:27:27  Message: Desempenho do cenario de teste:   tempo: 16467
+Time: 08/12/2021 06:27:32  Message: Desempenho do cenario de teste:   tempo: 4772
+
+
+
+
+Time: 08/12/2021 06:32:24  Message: teste para objetos 3d.
+Time: 08/12/2021 06:32:34  Message: Desempenho do cenario de teste:   tempo: 10455
+Time: 08/12/2021 06:32:38  Message: Desempenho do cenario de teste:   tempo: 3565
+
+
+
+
+Time: 08/12/2021 06:32:57  Message: teste para objetos 3d.
+Time: 08/12/2021 06:33:05  Message: Desempenho do cenario de teste:   tempo: 8420
+Time: 08/12/2021 06:33:08  Message: Desempenho do cenario de teste:   tempo: 2498
+
+
+
+
+Time: 08/12/2021 06:35:13  Message: Testes da janela de iteracao
+Time: 08/12/2021 06:35:57  Message: Desempenho do cenario de teste:   tempo: 44650
+
+
+
+
+Time: 08/12/2021 07:16:02  Message: Testes da janela de iteracao
+Time: 08/12/2021 07:16:06  Message: Desempenho do cenario de teste:   tempo: 3865
+
+
+
+
+Time: 08/12/2021 07:21:45  Message: teste para objetos 3d.
+Time: 08/12/2021 07:21:53  Message: Desempenho do cenario de teste:   tempo: 8282
+Time: 08/12/2021 07:21:59  Message: Desempenho do cenario de teste:   tempo: 5515
+
+
+
+
+Time: 08/12/2021 07:26:55  Message: teste para objetos 3d.
+Time: 08/12/2021 07:27:03  Message: Desempenho do cenario de teste:   tempo: 8234
+Time: 08/12/2021 07:27:09  Message: Desempenho do cenario de teste:   tempo: 5819
+
+
+
+
+Time: 08/12/2021 07:28:27  Message: teste para objetos 3d.
+Time: 08/12/2021 07:28:33  Message: Desempenho do cenario de teste:   tempo: 5721
+Time: 08/12/2021 07:28:38  Message: Desempenho do cenario de teste:   tempo: 5489
+
+
+
+
+Time: 08/12/2021 07:28:58  Message: teste para objetos 3d.
+Time: 08/12/2021 07:29:01  Message: Desempenho do cenario de teste:   tempo: 3056
+Time: 08/12/2021 07:29:11  Message: Desempenho do cenario de teste:   tempo: 9860
+
+
+
+
+Time: 08/12/2021 07:30:43  Message: teste para objetos 3d.
+Time: 08/12/2021 07:30:46  Message: Desempenho do cenario de teste:   tempo: 2906
+Time: 08/12/2021 07:30:52  Message: Desempenho do cenario de teste:   tempo: 6072
+
+
+
+
+Time: 08/12/2021 08:13:37  Message: Testes da janela de iteracao
+
+
+Time: 08/12/2021 08:14:51  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:15:34  Message: Desempenho do cenario de teste:   tempo: 42883
+
+
+
+
+Time: 08/12/2021 08:18:29  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:19:05  Message: Desempenho do cenario de teste:   tempo: 36596
+
+
+
+
+Time: 08/12/2021 08:25:27  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:25:54  Message: Desempenho do cenario de teste:   tempo: 27115
+
+
+
+
+Time: 08/12/2021 08:26:36  Message: Testes da janela de iteracao
+
+
+Time: 08/12/2021 08:39:53  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:40:39  Message: Desempenho do cenario de teste:   tempo: 45318
+
+
+
+
+Time: 08/12/2021 08:41:14  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:42:04  Message: Desempenho do cenario de teste:   tempo: 49916
+
+
+
+
+Time: 08/12/2021 08:44:06  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:44:31  Message: Desempenho do cenario de teste:   tempo: 25459
+
+
+
+
+Time: 08/12/2021 08:46:20  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:46:52  Message: Desempenho do cenario de teste:   tempo: 31913
+
+
+
+
+Time: 08/12/2021 08:48:00  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:49:23  Message: Desempenho do cenario de teste:   tempo: 82678
+
+
+
+
+Time: 08/12/2021 08:52:53  Message: Testes da janela de iteracao
+Time: 08/12/2021 08:54:01  Message: Desempenho do cenario de teste:   tempo: 67656
+
+
+
+
+Time: 08/12/2021 08:56:00  Message: Testes da janela de iteracao
+
+
+Time: 08/12/2021 09:18:03  Message: Testes da janela de iteracao
+Time: 08/12/2021 09:18:46  Message: Desempenho do cenario de teste:   tempo: 42741
+
+
+
+
+Time: 08/12/2021 09:19:35  Message: Testes da janela de iteracao
+
+
+Time: 08/12/2021 09:21:40  Message: Testes da janela de iteracao
+Time: 08/12/2021 09:22:22  Message: Desempenho do cenario de teste:   tempo: 41989
+
+
+
+
+Time: 08/12/2021 09:27:41  Message: Testes da janela de iteracao
+Time: 08/12/2021 09:28:29  Message: Desempenho do cenario de teste:   tempo: 47542
+
+
+
+
+Time: 08/12/2021 09:28:40  Message: Testes da janela de iteracao
+Time: 08/12/2021 09:29:02  Message: Desempenho do cenario de teste:   tempo: 21374
+
+
+
+
+Time: 08/12/2021 09:29:53  Message: Testes da janela de iteracao
+Time: 08/12/2021 09:30:52  Message: Desempenho do cenario de teste:   tempo: 58152
+
+
+
+
+Time: 08/12/2021 09:31:00  Message: Testes da janela de iteracao
+Time: 08/12/2021 09:31:18  Message: Desempenho do cenario de teste:   tempo: 17671
+
+
+
+
+Time: 08/12/2021 09:45:58  Message: Testes da janela de iteracao
+Time: 08/12/2021 09:46:40  Message: Desempenho do cenario de teste:   tempo: 42435
+
+
+
+
+Time: 08/12/2021 09:47:20  Message: Testes da janela de iteracao
+Time: 08/12/2021 09:48:20  Message: Desempenho do cenario de teste:   tempo: 59815
+
+
+
+
+Time: 08/12/2021 10:10:14  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:12:13  Message: Desempenho do cenario de teste:   tempo: 118712
+
+
+
+
+Time: 08/12/2021 10:13:32  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:14:27  Message: Desempenho do cenario de teste:   tempo: 55417
+
+
+
+
+Time: 08/12/2021 10:15:02  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:15:38  Message: Desempenho do cenario de teste:   tempo: 36114
+
+
+
+
+Time: 08/12/2021 10:16:19  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:17:00  Message: Desempenho do cenario de teste:   tempo: 40348
+
+
+
+
+Time: 08/12/2021 10:17:45  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:18:55  Message: Desempenho do cenario de teste:   tempo: 69383
+
+
+
+
+Time: 08/12/2021 10:18:59  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:19:21  Message: Desempenho do cenario de teste:   tempo: 22064
+
+
+
+
+Time: 08/12/2021 10:55:20  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:56:05  Message: Desempenho do cenario de teste:   tempo: 45632
+
+
+
+
+Time: 08/12/2021 10:56:39  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:57:15  Message: Desempenho do cenario de teste:   tempo: 36333
+
+
+
+
+Time: 08/12/2021 10:57:24  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:57:42  Message: Desempenho do cenario de teste:   tempo: 18293
+
+
+
+
+Time: 08/12/2021 10:58:15  Message: Testes da janela de iteracao
+Time: 08/12/2021 10:58:31  Message: Desempenho do cenario de teste:   tempo: 16577
+
+
+
+
+Time: 08/12/2021 11:01:52  Message: Testes da janela de iteracao
+Time: 08/12/2021 11:02:26  Message: Desempenho do cenario de teste:   tempo: 34802
+
+
+
+
+Time: 08/12/2021 11:02:40  Message: Testes da janela de iteracao
+Time: 08/12/2021 11:02:58  Message: Desempenho do cenario de teste:   tempo: 18046
+
+
+
+
+Time: 08/12/2021 11:06:40  Message: Testes da janela de iteracao
+Time: 08/12/2021 11:07:56  Message: Desempenho do cenario de teste:   tempo: 76624
+
+
+
+
+Time: 08/12/2021 11:08:44  Message: Testes da janela de iteracao
+Time: 08/12/2021 11:10:00  Message: Desempenho do cenario de teste:   tempo: 76256
+
+
+
+
+Time: 08/12/2021 11:12:47  Message: Testes da janela de iteracao
+Time: 08/12/2021 11:13:25  Message: Desempenho do cenario de teste:   tempo: 38395
+
+
+
+
+Time: 09/12/2021 08:43:34  Message: Testes da janela de iteracao
+
+
+Time: 09/12/2021 08:46:12  Message: Testes da janela de iteracao
+
+
+Time: 09/12/2021 08:47:15  Message: Testes da janela de iteracao
+
+
+Time: 09/12/2021 08:48:34  Message: Testes da janela de iteracao
+Time: 09/12/2021 08:49:43  Message: Desempenho do cenario de teste:   tempo: 69573
+
+
+
+
+Time: 09/12/2021 08:50:01  Message: Testes da janela de iteracao
+Time: 09/12/2021 08:51:23  Message: Desempenho do cenario de teste:   tempo: 81176
+
+
+
+
+Time: 09/12/2021 08:53:06  Message: Testes da janela de iteracao
+Time: 09/12/2021 08:53:10  Message: Desempenho do cenario de teste:   tempo: 3459
+
+
+
+
+Time: 09/12/2021 08:53:31  Message: Testes da janela de iteracao
+Time: 09/12/2021 08:54:59  Message: Desempenho do cenario de teste:   tempo: 88614
+
+
+
+
+Time: 09/12/2021 08:55:13  Message: Testes da janela de iteracao
+Time: 09/12/2021 08:55:43  Message: Desempenho do cenario de teste:   tempo: 30743
+
+
+
+
+Time: 09/12/2021 09:28:43  Message: Testes da janela de iteracao
+Time: 09/12/2021 09:29:16  Message: Desempenho do cenario de teste:   tempo: 33514
+
+
+
+
+Time: 09/12/2021 09:29:29  Message: Testes da janela de iteracao
+Time: 09/12/2021 09:30:57  Message: Desempenho do cenario de teste:   tempo: 87781
+
+
+
+
+Time: 09/12/2021 09:34:27  Message: teste para objetos 3d.
+Time: 09/12/2021 09:34:35  Message: Desempenho do cenario de teste:   tempo: 7689
+Time: 09/12/2021 09:34:39  Message: Desempenho do cenario de teste:   tempo: 4558
+
+
+
+
+Time: 09/12/2021 09:36:40  Message: teste para objetos 3d.
+Time: 09/12/2021 09:36:50  Message: Desempenho do cenario de teste:   tempo: 9593
+Time: 09/12/2021 09:36:52  Message: Desempenho do cenario de teste:   tempo: 2196
+
+
+
+
+Time: 09/12/2021 09:37:18  Message: teste para objetos 3d.
+Time: 09/12/2021 09:37:22  Message: Desempenho do cenario de teste:   tempo: 4049
+Time: 09/12/2021 09:37:26  Message: Desempenho do cenario de teste:   tempo: 4218
+
+
+
+
+Time: 09/12/2021 09:37:59  Message: teste para objetos 3d.
+Time: 09/12/2021 09:38:06  Message: Desempenho do cenario de teste:   tempo: 6926
+Time: 09/12/2021 09:38:09  Message: Desempenho do cenario de teste:   tempo: 2770
+
+
+
+
+Time: 09/12/2021 10:02:18  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:03:10  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:04:16  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:05:34  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:07:18  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:07:48  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:09:10  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:13:20  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:19:17  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:21:32  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:26:08  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:27:31  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:28:48  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:32:18  Message: teste para objetos 3d.
+Time: 09/12/2021 10:32:23  Message: Desempenho do cenario de teste:   tempo: 5207
+Time: 09/12/2021 10:32:26  Message: Desempenho do cenario de teste:   tempo: 2259
+
+
+
+
+Time: 09/12/2021 10:32:49  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 10:40:00  Message: Testes da janela de iteracao
+Time: 09/12/2021 10:40:42  Message: Desempenho do cenario de teste:   tempo: 41813
+
+
+
+
+Time: 09/12/2021 10:43:51  Message: Testes da janela de iteracao
+Time: 09/12/2021 10:44:14  Message: Desempenho do cenario de teste:   tempo: 22587
+
+
+
+
+Time: 09/12/2021 10:46:21  Message: Testes da janela de iteracao
+Time: 09/12/2021 10:46:40  Message: Desempenho do cenario de teste:   tempo: 19220
+
+
+
+
+Time: 09/12/2021 10:49:14  Message: Testes da janela de iteracao
+
+
+Time: 09/12/2021 10:49:59  Message: Testes da janela de iteracao
+Time: 09/12/2021 10:50:28  Message: Desempenho do cenario de teste:   tempo: 28734
+
+
+
+
+Time: 09/12/2021 10:51:46  Message: Testes da janela de iteracao
+
+
+Time: 09/12/2021 10:54:50  Message: Testes da janela de iteracao
+Time: 09/12/2021 10:54:59  Message: Desempenho do cenario de teste:   tempo: 9553
+
+
+
+
+Time: 09/12/2021 10:55:16  Message: Testes da janela de iteracao
+
+
+Time: 09/12/2021 10:58:15  Message: teste para objetos 3d.
+Time: 09/12/2021 10:58:21  Message: Desempenho do cenario de teste:   tempo: 6313
+Time: 09/12/2021 10:58:23  Message: Desempenho do cenario de teste:   tempo: 1790
+
+
+
+
+Time: 09/12/2021 11:00:29  Message: teste para objetos 3d.
+Time: 09/12/2021 11:00:43  Message: Desempenho do cenario de teste:   tempo: 14582
+Time: 09/12/2021 11:00:45  Message: Desempenho do cenario de teste:   tempo: 1780
+
+
+
+
+Time: 09/12/2021 11:02:10  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 11:02:40  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 11:03:14  Message: teste para objetos 3d.
+Time: 09/12/2021 11:03:19  Message: Desempenho do cenario de teste:   tempo: 4577
+Time: 09/12/2021 11:03:20  Message: Desempenho do cenario de teste:   tempo: 1473
+
+
+
+
+Time: 09/12/2021 11:04:51  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 11:05:55  Message: teste para objetos 3d.
+Time: 09/12/2021 11:05:58  Message: Desempenho do cenario de teste:   tempo: 3689
+Time: 09/12/2021 11:06:01  Message: Desempenho do cenario de teste:   tempo: 2377
+
+
+
+
+Time: 09/12/2021 11:07:33  Message: teste para objetos 3d.
+Time: 09/12/2021 11:07:41  Message: Desempenho do cenario de teste:   tempo: 7988
+Time: 09/12/2021 11:07:51  Message: Desempenho do cenario de teste:   tempo: 10030
+
+
+
+
+Time: 09/12/2021 11:12:12  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 11:21:46  Message: teste para objetos 3d.
+Time: 09/12/2021 11:21:51  Message: Desempenho do cenario de teste:   tempo: 5577
+Time: 09/12/2021 11:21:56  Message: Desempenho do cenario de teste:   tempo: 4297
+
+
+
+
+Time: 09/12/2021 13:13:31  Message: teste para objetos 3d.
+Time: 09/12/2021 13:13:41  Message: Desempenho do cenario de teste:   tempo: 10013
+Time: 09/12/2021 13:13:45  Message: Desempenho do cenario de teste:   tempo: 3140
+
+
+
+
+Time: 09/12/2021 13:15:07  Message: teste para objetos 3d.
+Time: 09/12/2021 13:15:14  Message: Desempenho do cenario de teste:   tempo: 6415
+
+
+
+
+Time: 09/12/2021 13:15:23  Message: teste para objetos 3d.
+Time: 09/12/2021 13:15:25  Message: Desempenho do cenario de teste:   tempo: 2633
+
+
+
+
+Time: 09/12/2021 13:15:35  Message: teste para objetos 3d.
+Time: 09/12/2021 13:15:42  Message: Desempenho do cenario de teste:   tempo: 6968
+
+
+
+
+Time: 09/12/2021 13:17:27  Message: teste para objetos 3d.
+Time: 09/12/2021 13:17:33  Message: Desempenho do cenario de teste:   tempo: 6223
+
+
+
+
+Time: 09/12/2021 13:23:30  Message: teste para objetos 3d.
+Time: 09/12/2021 13:23:35  Message: Desempenho do cenario de teste:   tempo: 5005
+
+
+
+
+Time: 09/12/2021 13:23:43  Message: teste para objetos 3d.
+Time: 09/12/2021 13:24:01  Message: Desempenho do cenario de teste:   tempo: 18460
+
+
+
+
+Time: 09/12/2021 13:24:40  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 13:25:59  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 13:26:26  Message: teste para objetos 3d.
+
+
+Time: 09/12/2021 13:28:36  Message: teste para objetos 3d.
+Time: 09/12/2021 13:28:56  Message: Desempenho do cenario de teste:   tempo: 20147
+
+
+
+
+Time: 09/12/2021 13:36:39  Message: Testes da janela de iteracao
+Time: 09/12/2021 13:38:03  Message: Desempenho do cenario de teste:   tempo: 84020
+
+
+
+
+Time: 15/12/2021 11:53:50  Message: Testes da janela de iteracao
+Time: 15/12/2021 11:55:40  Message: Desempenho do cenario de teste:   tempo: 110261
+
+
+
+
+Time: 15/12/2021 11:56:03  Message: Testes da janela de iteracao
+Time: 15/12/2021 11:56:34  Message: Desempenho do cenario de teste:   tempo: 30649
+
+
+
+
+Time: 15/12/2021 11:58:04  Message: Testes da janela de iteracao
+Time: 15/12/2021 11:58:57  Message: Desempenho do cenario de teste:   tempo: 52783
+
+
+
+
+Time: 18/12/2021 18:31:33  Message: Testes da janela de iteracao
+Time: 18/12/2021 18:33:12  Message: Desempenho do cenario de teste:   tempo: 98544
+
+
+
+
+Time: 18/12/2021 18:40:29  Message: Testes da janela de iteracao
+Time: 18/12/2021 18:41:38  Message: Desempenho do cenario de teste:   tempo: 68561
+
+
+
+
+Time: 19/12/2021 03:36:49  Message: Testes da janela de iteracao
+Time: 19/12/2021 03:37:23  Message: Desempenho do cenario de teste:   tempo: 33349
+
+
+
+
+Time: 19/12/2021 03:50:00  Message: Testes da janela de iteracao
+Time: 19/12/2021 03:50:50  Message: Desempenho do cenario de teste:   tempo: 50038
+
+
+
+
+Time: 19/12/2021 04:17:17  Message: Testes da janela de iteracao
+Time: 19/12/2021 04:18:05  Message: Desempenho do cenario de teste:   tempo: 47993
+
+
+
+
+Time: 19/12/2021 04:18:42  Message: Testes da janela de iteracao
+Time: 19/12/2021 04:19:28  Message: Desempenho do cenario de teste:   tempo: 45381
+
+
+
+
+Time: 19/12/2021 04:22:38  Message: Testes da janela de iteracao
+Time: 19/12/2021 04:23:20  Message: Desempenho do cenario de teste:   tempo: 41945
+
+
+
+
+Time: 19/12/2021 04:24:52  Message: Testes da janela de iteracao
+Time: 19/12/2021 04:26:07  Message: Desempenho do cenario de teste:   tempo: 74709
+
+
+
+
+Time: 19/12/2021 04:29:32  Message: Testes da janela de iteracao
+Time: 19/12/2021 04:30:31  Message: Desempenho do cenario de teste:   tempo: 59016
+
+
+
+
+Time: 19/12/2021 10:47:24  Message: Testes da janela de iteracao
+Time: 19/12/2021 10:48:06  Message: Desempenho do cenario de teste:   tempo: 41780
+
+
+
+
+Time: 19/12/2021 11:11:57  Message: Testes da janela de iteracao
+Time: 19/12/2021 11:12:14  Message: Desempenho do cenario de teste:   tempo: 16674
+
+
+
+
+Time: 19/12/2021 11:14:02  Message: Testes da janela de iteracao
+Time: 19/12/2021 11:14:17  Message: Desempenho do cenario de teste:   tempo: 15436
+
+
+
+
+Time: 19/12/2021 11:21:22  Message: Testes da janela de iteracao
+Time: 19/12/2021 11:21:39  Message: Desempenho do cenario de teste:   tempo: 16411
+
+
+
+
+Time: 19/12/2021 11:22:05  Message: Testes da janela de iteracao
+Time: 19/12/2021 11:22:20  Message: Desempenho do cenario de teste:   tempo: 14299
+
+
+Time: 19/03/2022 09:09:39  Message: Testes: Testes da janela de iteracao
+Time: 19/03/2022 09:09:44  Message: teste: Teste_01 executado em: 4782  milisegundos.
+Time: 20/03/2022 07:43:03  Message: Testes: Testes da janela de iteracao
+Time: 21/03/2022 05:22:52  Message: Testes: Testes da janela de iteracao
+Time: 21/03/2022 05:23:48  Message: teste: Teste_01 executado em: 56283  milisegundos.
+Time: 21/03/2022 05:28:10  Message: Testes: Testes da janela de iteracao
+Time: 21/03/2022 05:28:50  Message: teste: Teste_01 executado em: 39861  milisegundos.
+Time: 21/03/2022 05:29:28  Message: Testes: Testes da janela de iteracao
+Time: 21/03/2022 05:30:14  Message: teste: Teste_01 executado em: 45770  milisegundos.
+Time: 21/03/2022 05:30:24  Message: Testes: Testes da janela de iteracao
+Time: 21/03/2022 05:31:19  Message: teste: Teste_01 executado em: 54280  milisegundos.
+Time: 21/03/2022 05:35:26  Message: Testes: Testes da janela de iteracao
+Time: 21/03/2022 05:35:56  Message: teste: Teste_01 executado em: 29767  milisegundos.
+Time: 21/03/2022 05:36:53  Message: Testes: Testes da janela de iteracao
+Time: 21/03/2022 05:37:25  Message: teste: Teste_01 executado em: 32731  milisegundos.
+Time: 21/03/2022 05:38:11  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 05:41:22  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 05:42:07  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 05:43:10  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 05:44:17  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 05:44:21  Message: teste: Teste_DesenhaBox3D executado em: 3734  milisegundos.
+Time: 21/03/2022 05:44:21  Message: teste passou.
+Time: 21/03/2022 05:44:21  Message: teste passou.
+Time: 21/03/2022 05:44:21  Message: teste passou.
+Time: 21/03/2022 05:44:23  Message: teste: Teste_DrawObject3D executado em: 2579  milisegundos.
+Time: 21/03/2022 05:44:24  Message: teste nao passou.
+Time: 21/03/2022 05:45:09  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 05:46:19  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 05:46:28  Message: teste: Teste_DesenhaBox3D executado em: 8925  milisegundos.
+Time: 21/03/2022 05:46:28  Message: teste passou.
+Time: 21/03/2022 05:46:28  Message: teste passou.
+Time: 21/03/2022 05:46:28  Message: teste passou.
+Time: 21/03/2022 05:46:30  Message: teste: Teste_DrawObject3D executado em: 1848  milisegundos.
+Time: 21/03/2022 05:46:30  Message: teste nao passou.
+Time: 21/03/2022 05:46:32  Message: teste: Teste_NivelaObjeto3d executado em: 1816  milisegundos.
+Time: 21/03/2022 05:46:32  Message: teste passou.
+Time: 21/03/2022 05:46:33  Message: teste: Teste_ResizeObjeto3D executado em: 1567  milisegundos.
+Time: 21/03/2022 05:46:34  Message: teste nao passou.
+Time: 21/03/2022 05:46:35  Message: teste: Teste_RotacionaObjeto3D executado em: 1759  milisegundos.
+Time: 21/03/2022 05:46:35  Message: teste passou.
+Time: 21/03/2022 05:46:35  Message: teste: Teste_InstantiateObject3d executado em: 108  milisegundos.
+Time: 21/03/2022 05:46:35  Message: teste passou.
+Time: 21/03/2022 05:46:35  Message: teste: Teste_ObtemImageIntoProject executado em: 8  milisegundos.
+Time: 21/03/2022 05:59:11  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 05:59:15  Message: teste: Teste_DesenhaBox3D executado em: 4682  milisegundos.
+Time: 21/03/2022 05:59:16  Message: teste passou.
+Time: 21/03/2022 05:59:16  Message: teste passou.
+Time: 21/03/2022 05:59:16  Message: teste passou.
+Time: 21/03/2022 05:59:18  Message: teste: Teste_DrawObject3D executado em: 3033  milisegundos.
+Time: 21/03/2022 05:59:20  Message: teste nao passou.
+Time: 21/03/2022 06:01:25  Message: Testes: teste para objetos 3d.
+Time: 21/03/2022 06:01:30  Message: teste: Teste_DesenhaBox3D executado em: 4904  milisegundos.
+Time: 21/03/2022 06:01:30  Message: teste passou.
+Time: 21/03/2022 06:01:30  Message: teste passou.
+Time: 21/03/2022 06:01:30  Message: teste passou.
+Time: 21/03/2022 06:01:32  Message: teste: Teste_DrawObject3D executado em: 2091  milisegundos.
+Time: 21/03/2022 06:01:33  Message: teste nao passou.
+Time: 21/03/2022 06:01:34  Message: teste: Teste_NivelaObjeto3d executado em: 2487  milisegundos.
+Time: 21/03/2022 06:01:35  Message: teste passou.
+Time: 21/03/2022 06:01:37  Message: teste: Teste_ResizeObjeto3D executado em: 2086  milisegundos.
+Time: 21/03/2022 06:01:37  Message: teste nao passou.
+Time: 21/03/2022 06:01:39  Message: teste: Teste_RotacionaObjeto3D executado em: 2569  milisegundos.
+Time: 21/03/2022 06:01:39  Message: teste passou.
+Time: 21/03/2022 06:01:39  Message: teste: Teste_InstantiateObject3d executado em: 144  milisegundos.
+Time: 21/03/2022 06:01:39  Message: teste passou.
+Time: 21/03/2022 06:01:39  Message: teste: Teste_ObtemImageIntoProject executado em: 6  milisegundos.
+Time: 21/03/2022 06:04:56  Message: Testes: Testes da janela de iteracao
+Time: 21/03/2022 06:05:44  Message: teste: Teste_01 executado em: 47421  milisegundos.
